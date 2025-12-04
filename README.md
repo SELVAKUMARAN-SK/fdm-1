@@ -98,9 +98,11 @@ subplot(5,1,5); plot(t, m5_d); title("DemodulatedSignal 5");
 <img width="796" height="547" alt="image" src="https://github.com/user-attachments/assets/1001729e-13fb-41de-9ebe-c5164f0123d9" />
 <img width="784" height="428" alt="image" src="https://github.com/user-attachments/assets/a1ed1d5c-1996-478f-8f80-7c78e373b043" />
 
-![WhatsApp Image 2025-11-28 at 15 22 16_863dd69b](https://github.com/user-attachments/assets/b2263b27-24b2-4f1e-827f-327b72a9c551)
+![WhatsApp Image 2025-12-04 at 12 22 16 PM](https://github.com/user-attachments/assets/8a618df2-7f46-41a9-b0bc-b6a6fc340d3b)
 
-![WhatsApp Image 2025-11-28 at 15 22 17_986ce2fa](https://github.com/user-attachments/assets/f8677814-cf97-499a-867b-a3ea058c32a1)
+![WhatsApp Image 2025-12-04 at 12 22 29 PM](https://github.com/user-attachments/assets/33236909-206f-4a60-8027-e0dfa9a8ce02)
+
+
 
 ## Result:
 
